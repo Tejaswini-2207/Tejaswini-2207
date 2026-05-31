@@ -1,5 +1,5 @@
 # 💫 About Me:
-B.Tech Student<br><br>💻 Interested in AI, Machine Learning, and Software Development<br><br>🌱 Currently learning Python, Data Structures, and Generative AI<br><br>🚀 Projects:<br><br>Student Management System<br>AI Chatbot<br>Portfolio Website : https://tejaswinitechportfolio.lovable.app<br>📫 Connect with me:<br><br>LinkedIn: https://www.linkedin.com/in/tejaswini-s-4294b9252/<br>Email: steju2207@gmail.com
+B.Tech Student<br><br>💻 Interested in AI, Machine Learning, and Software Development<br><br>🌱 Currently learning Python, Data Structures, and Generative AI<br><br>🚀 Portfolio Website : https://tejaswinitechportfolio.lovable.app<br>📫 Connect with me:<br><br>LinkedIn: https://www.linkedin.com/in/tejaswini-s-4294b9252/<br>Email: steju2207@gmail.com
 
 
 ## 🌐 Socials:
