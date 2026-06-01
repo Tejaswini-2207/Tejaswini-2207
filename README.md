@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm tejaswini s</h1>
+<h1 align="center">Hi 👋, I'm Tejaswini </h1>
 <h3 align="center">a passionate Computer Science student interested in Artificial Intelligence, Machine Learning, and Software Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejaswini-2207&label=Profile%20views&color=0e75b6&style=flat" alt="tejaswini-2207" /> </p>
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **tejusus2213@gmail.com**
 
-- ⚡ Fun fact **I enjoy solving coding challenges and exploring AI applications. ⚡ Fun fact: I started my coding journey with Python and fell in love with AI. ⚡ I can spend hours debugging code and still enjoy it. ⚡ Fun fact: I love turning ideas into real-world projects using technology. ⚡ Fun fact: Every project I build teaches me something new. 
+- ⚡ Fun fact: I started my coding journey with Python and fell in love with AI. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
