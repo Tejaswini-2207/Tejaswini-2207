@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python, Machine Learning, Artificial Intelligence, GitHub, and Student Projects**
 
-- 📫 How to reach me **tejusus2213@gmail.com**
+- 📫 How to reach me tejaswiniofficial.tech@gmail.com
 
 - ⚡ Fun fact **⚡ I believe consistency beats talent when learning to code.**
 
